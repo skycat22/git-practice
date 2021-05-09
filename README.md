@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-local repo henko
-conflict上で更新
+ローカルリポで変更
+GitHub上で更新 2回目
